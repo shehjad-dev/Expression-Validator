@@ -4,7 +4,7 @@ choice = prompt("WHICH OPTION? : ");
 
 var text;
 let re;
-let str = prompt("Enter your input: ");
+let str = prompt("Enter your Input: ");
 
 switch(choice) {
     case "a" :
